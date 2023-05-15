@@ -18,5 +18,6 @@ module.exports = {
     },
     "gatsby-plugin-mdx",
     "gatsby-remark-autolink-headers",
+    "gatsby-transformer-sharp",
     ],
 }
